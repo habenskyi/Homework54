@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\Homework54\bin\Debug\net7.0\Homework54.exe
+C:\Cisharp\HOMEWORK\Homework54\bin\Debug\net7.0\Homework54.deps.json
+C:\Cisharp\HOMEWORK\Homework54\bin\Debug\net7.0\Homework54.runtimeconfig.json
+C:\Cisharp\HOMEWORK\Homework54\bin\Debug\net7.0\Homework54.dll
+C:\Cisharp\HOMEWORK\Homework54\bin\Debug\net7.0\Homework54.pdb
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.dll
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\refint\Homework54.dll
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.pdb
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\Homework54.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\Homework54\obj\Debug\net7.0\ref\Homework54.dll
